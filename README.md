@@ -42,3 +42,12 @@ sudo apt install oracle-java8-set-default
 ``` xml
 ./gradlew build bootRun
 ```
+##Others:
+1.Connect to cloud service using:
+``` xml
+sudo ssh -i  PathToXxx.pem root@HostName
+```
+2.Disconnect to cloud service using:
+``` xml
+~. 
+```
